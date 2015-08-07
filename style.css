@@ -1,0 +1,10 @@
+.box {
+background-color: red;
+height: 150px;
+width: 45%;
+margin: 0 auto 50px;
+}
+
+body {
+background-image: url(images/Floor.jpg);
+}
